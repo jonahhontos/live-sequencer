@@ -1,0 +1,7 @@
+1, ionianRelativeModes;
+2, dorianRelativeModes;
+3, phrygianRelativeModes;
+4, lydianRelativeModes;
+5, mixolydianRelativeModes;
+6, aeolianRelativeModes;
+7, locrianRelativeModes;

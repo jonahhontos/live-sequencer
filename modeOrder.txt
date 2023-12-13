@@ -1,0 +1,7 @@
+0, ionian;
+1, dorian;
+2, phrygian;
+3, lydian;
+4, mixolydian;
+5, aeolian;
+6, locrian;

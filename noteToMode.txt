@@ -1,0 +1,7 @@
+1, noteToIonian;
+2, noteToDorian;
+3, noteToPhrygian;
+4, noteToLydian;
+5, noteToMixolydian;
+6, noteToAeolian;
+7, noteToLocrian;
