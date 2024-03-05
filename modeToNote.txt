@@ -5,3 +5,4 @@
 5, mixolydian;
 6, aeolian;
 7, locrian;
+10, harmonicMinorVMode;
